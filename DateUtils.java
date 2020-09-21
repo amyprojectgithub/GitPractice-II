@@ -1,9 +1,9 @@
 import java.util.*;
 class Demo{
    
-       public static void main(String... args){
+       public static Date getDate(){
             Date  date=new Date();
-             System.out.println(date);
+            return date;
 
       }
 
